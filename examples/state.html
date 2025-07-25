@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <x-state name="dark" value="false"></x-state>
+  <button set:dark="!dark">Toggle Dark</button>
+  <div bind:class="dark:dark-mode">Theme box</div>
+</body>
+</html>
