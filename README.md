@@ -33,11 +33,14 @@ Build apps that feel like the web — fast, predictable, and free from frontend 
 ---
 
 ## 🛠 Repo Structure
-
-/spec # Specification docs (per component)
-/runtime # Polyfill/JS runtime (optional)
-/examples # Real usage demos
-/docs # Site & documentation
+### Specification docs (per component)
+/spec 
+### Polyfill/JS runtime (optional)
+/runtime 
+### Real usage demos
+/examples
+### Site & documentation
+/docs 
 
 ---
 
